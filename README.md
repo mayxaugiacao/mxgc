@@ -5,9 +5,9 @@ Shop Máy Xấu Giá Cao được xem là địa chỉ cung cấp laptop cũ USA
 
 Các dòng laptop kinh doanh nổi bật tại shop
 1. <a href="https://mayxaugiacao.com/danh-muc/laptop-do-hoa/">Laptop Đồ Họa</a>
-2. Laptop HP
-3. Laptop Dell
-4. Laptop Lenovo ThinkPad
-5. Laptop Gaming
-6. Laptop Văn Phòng
+2. <a href="https://mayxaugiacao.com/danh-muc/laptop-hp/">Laptop HP</a>
+3. <a href="https://mayxaugiacao.com/danh-muc/laptop-dell/">Laptop Dell </a>
+4. <a href="https://mayxaugiacao.com/danh-muc/thinkpad-lenovo-ibm/">Laptop Lenovo ThinkPad</a>
+5. <a href="https://mayxaugiacao.com/danh-muc/laptop-chuyen-gaming/">Laptop Gaming</a>
+6. <a href="https://mayxaugiacao.com/danh-muc/laptop/laptop-theo-nhu-cau-su-dung/laptop-cho-van-phong/">Laptop Văn Phòng</a>
 
